@@ -1,7 +1,7 @@
 {
   "name": "wakaran",
-  "version": "0.1.0",
-  "description": "不慣れな領域で判断を求められて手に余るときの補助輪。判断を「自分の状況についての事実の問い」に縮める /wakaran、学びを刈り取って読書リストにする /catchup、決定メモ1本を批評する critic agent。",
+  "version": "0.2.0",
+  "description": "不慣れな領域で判断を求められて手に余るときの補助輪。判断を縮める /wakaran、決定メモを批評する /critic、学びを読書リストにする /catchup。",
   "author": { "name": "Yuji Imagawa" },
   "license": "MIT"
 }

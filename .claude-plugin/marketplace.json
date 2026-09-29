@@ -3,6 +3,6 @@
   "description": "wakaran plugin marketplace",
   "owner": { "name": "Yuji Imagawa" },
   "plugins": [
-    { "name": "wakaran", "source": "./", "description": "判断を縮める /wakaran、読書リストの /catchup、批評の critic agent" }
+    { "name": "wakaran", "source": "./", "description": "判断を縮める /wakaran、決定メモを批評する /critic、読書リストの /catchup" }
   ]
 }
