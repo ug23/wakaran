@@ -1,7 +1,10 @@
-# wakaran
+wakaran
 
 日本語 | [English](README.en.md)
 
+<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/d339c951-e15f-47ea-91c6-efd840115689" />
+
+## 背景
 AI エージェントに実装や設計を任せていると、自分が扱い慣れていない領域の判断を求められる場面が増える。
 「ロック待ちの上限は 2 秒と 3 秒のどちらにしますか」と聞かれても、答える材料が手元にない。
 説明を頼めば流暢な解説が返ってくるが、読み終えても判断できるようにはならない。
